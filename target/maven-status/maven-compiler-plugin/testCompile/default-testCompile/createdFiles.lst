@@ -1,0 +1,5 @@
+com\orangeHRM\pages\BaseClass.class
+com\orangeHRM\pages\SystemUsersPage.class
+com\orangeHRM\pages\HomePage.class
+com\orangeHRM\pages\LoginPage.class
+testcases\OrangeHRM.class
